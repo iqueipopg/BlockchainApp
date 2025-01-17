@@ -27,7 +27,6 @@ In **Proyecto Blockchain**, multiple nodes communicate over a decentralized netw
 1. Clone the repository:
    ```sh
    git clone https://github.com/YOUR_USERNAME/Proyecto-Blockchain.git
-   cd Proyecto-Blockchain
 2. Run a blockchain node:
    ```sh
    python Blockchain_app.py
