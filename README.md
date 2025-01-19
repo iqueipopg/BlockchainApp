@@ -98,7 +98,7 @@ This project was developed as part of the **Computer Science course** at **Unive
 - **Open-source contributors** whose work inspired and facilitated the development of this project.
 
 ### 👨‍💻 Developers:
-- **Ignacio Queipo de Llano Pérez-Gascón**
 - **Eugenio Ribón Novoa**
+- **Ignacio Queipo de Llano Pérez-Gascón**
 
 We also extend our gratitude to all the **open-source projects and libraries** that made this project possible. 🚀
