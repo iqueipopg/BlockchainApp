@@ -4,7 +4,7 @@
 
 **Proyecto Blockchain** is a decentralized **blockchain application** where multiple nodes synchronize transactions into blocks using a **peer-to-peer network**. It features transaction processing, block mining, proof-of-work, and a RESTful API built with **Flask**.
 
-This project was developed as part of a **Computer Science course** at the **Universidad Pontificia Comillas, ICAI**, for the **Engineering Mathematics** program.
+This project was developed for a second-year course of the **Mathematical Engineering and AI** degree at **Universidad Pontificia Comillas, ICAI**.
 
 ## 📜 Table of Contents
 - [📌 Project Overview](#-project-overview)
@@ -90,7 +90,7 @@ The **Proyecto Blockchain** application is built using the following technologie
 
 ## 🙌 Credits
 
-This project was developed as part of the **Computer Science course** at **Universidad Pontificia Comillas, ICAI**, for the **Engineering Mathematics** program.
+This project was developed for a second-year course of the **Mathematical Engineering and AI** degree at **Universidad Pontificia Comillas, ICAI**.
 
 ### 🎓 Special Thanks To:
 - **Professors and mentors** for their guidance and support throughout the course.
@@ -102,3 +102,7 @@ This project was developed as part of the **Computer Science course** at **Unive
 - **Ignacio Queipo de Llano Pérez-Gascón**
 
 We also extend our gratitude to all the **open-source projects and libraries** that made this project possible. 🚀
+
+## License
+
+The code is released under the [MIT License](LICENSE).
